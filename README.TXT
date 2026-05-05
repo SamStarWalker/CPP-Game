@@ -1,0 +1,2 @@
+External -> SFML -> include
+                 -> lib
